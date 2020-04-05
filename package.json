@@ -1,0 +1,22 @@
+{
+  "name": "dalkak-heroku",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnlow/dalkak-heroku.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gnlow/dalkak-heroku/issues"
+  },
+  "homepage": "https://github.com/gnlow/dalkak-heroku#readme",
+  "dependencies": {
+    "dalkak": "^0.9.2",
+    "ent2dalk": "^0.1.13"
+  }
+}
